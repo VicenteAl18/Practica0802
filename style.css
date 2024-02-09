@@ -1,0 +1,23 @@
+body{
+    background-color: azure;
+}
+h1{
+    border-radius: 5%;
+    color: rgba(235, 22, 203, 0.928);
+    background-color: azure;
+}
+span{
+    color: blueviolet
+}
+h2{
+    color: rgb(255, 180, 81);
+}
+button{
+    background-color: aquamarine;
+    color: brown;
+    border-radius: 15%;
+}
+img{
+    border: 20cap;
+    border-radius: 20%;
+}
